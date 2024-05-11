@@ -1,11 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dvizioon ================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dvizioon
+================================================================================================================================
 
-Systems Programmer , Full Stack Developer 👽
+Systems Programmer , Full Stack Developer
 -----------------------------------------
 
 As a Systems Programmer and Full Stack Developer, I thrive at the intersection of low-level software development and web application engineering. Proficient in languages like C++ and C#, I dive deep into system-level intricacies, crafting efficient and reliable software solutions from device drivers to performance optimization. Simultaneously, with expertise in technologies like Node.js, TypeScript, React, and Next.js and PHP developer, I craft innovative web applications that seamlessly blend elegant user interfaces with robust server logic. Passionate about technology and driven by a relentless pursuit of excellence, I am poised to make a lasting impact in the ever-evolving landscape of software development.
 
 * ✉️  You can contact me at [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com)
+* 🧠  I'm learning I'm currently learning Next.js, a powerful JavaScript framework for building React-based web applications. I'm excited to explore its features like server-side rendering and automatic code splitting to enhance the performance and scalability of my projects.
+* ⚡  Additionally, I'm diving deeper into backend development with Node.js and exploring its capabilities in building scalable and efficient server-side applications. I'm also honing my skills in database management with MongoDB and SQL, aiming to create robust and secure data-driven solutions.
 
 ### Skills
 
@@ -27,7 +30,7 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
 
 <a href="http://www.github.com/dvizioon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dvizioon&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/dvizioon" align="left"><img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvizioon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dvizioon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvizioon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
