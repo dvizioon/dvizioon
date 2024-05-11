@@ -35,14 +35,12 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvizioon&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dvizioon&theme=chartreuse_dark)
+
 </div>
 
 <div style="display:flex; gap:20px;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dvizioon&theme=chartreuse_dark&utcOffset=8)
 
 </div>
 
