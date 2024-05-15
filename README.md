@@ -57,7 +57,10 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
     </td>
     <td align="center">
       <a href="#" >
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
+        <div style="display:flex; gap:20px;">
+          
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
+        </div>
         <br>
         <sub>
           <b>Packages de PHP</b>
