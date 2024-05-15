@@ -35,7 +35,6 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvizioon&theme=chartreuse_dark)
 
-
 </div>
 
 <div style="display:flex; gap:20px;">
@@ -43,6 +42,30 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
 
 </div>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" >
+        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvizioon&theme=chartreuse_dark)
+        <br>
+        <sub>
+          <b>Instalador</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" >
+      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
+        <br>
+        <sub>
+          <b>Packages de PHP</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### Support Me
