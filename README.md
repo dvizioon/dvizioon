@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dvizioon
 ================================================================================================================================
 
-Systems Programmer , Back-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
+Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 -----------------------------------------
 
-👨‍💻 Desenvolvedor backend apaixonado por tecnologia. Especialista em C++ e C#, criando sistemas e servidores robustos. 🚀 Experiência em Node.js, TypeScript e PHP, focado em microserviços escaláveis. Sempre em busca da excelência no desenvolvimento de software. 🌟
+👨‍💻 Passionate backend developer. Expert in C++ and C#, creating robust systems and servers. 🚀 Experienced in Node.js, TypeScript, and PHP, focused on scalable microservices. Always striving for excellence in software development. 🌟
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /> You can contact me at [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
 
