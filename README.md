@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Systems Programmer , Back-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 -----------------------------------------
 
-As a Systems Programmer and Full Stack Developer, I thrive at the intersection of low-level software development and web application engineering. Proficient in languages like C++ and C#, I dive deep into system-level intricacies, crafting efficient and reliable software solutions from device drivers to performance optimization. Simultaneously, with expertise in technologies like Node.js, TypeScript, React, and Next.js and PHP developer, I craft innovative web applications that seamlessly blend elegant user interfaces with robust server logic. Passionate about technology and driven by a relentless pursuit of excellence, I am poised to make a lasting impact in the ever-evolving landscape of software development.
+👨‍💻 Desenvolvedor backend apaixonado por tecnologia. Especialista em C++ e C#, criando sistemas e servidores robustos. 🚀 Experiência em Node.js, TypeScript e PHP, focado em microserviços escaláveis. Sempre em busca da excelência no desenvolvimento de software. 🌟
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /> You can contact me at [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
 
