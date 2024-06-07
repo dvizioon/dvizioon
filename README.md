@@ -9,7 +9,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 
 ### Professional Contacts
 > [!NOTE]  
-> * Email: [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
+> * Email: [danielmartinsjob@gmail.com](mailto:danielmartinjob@gmail.com) 
 
 ### Skills 
 
