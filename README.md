@@ -54,14 +54,3 @@ As a Systems Programmer and Full Stack Developer, I thrive at the intersection o
   </tr>
 </table>
 
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 3px 0;display:flex;align-items:center; gap:5px;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dvizioon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dvizioon"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-
-</ul>
