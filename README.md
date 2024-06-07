@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 -----------------------------------------
 
-👨‍💻 Passionate backend developer. Expert in C++ and C#, creating robust systems and servers. 🚀 Experienced in Node.js, TypeScript, and PHP, focused on scalable microservices. Always striving for excellence in software development. 🌟
+👨‍💻 Dedicated backend developer with experience in C++ and C#, specializing in creating robust systems and servers. 🚀 Skilled in Node.js, TypeScript, PHP, and Twig, as well as Python, with a focus on developing scalable microservices and creating APIs using Flask and Django. Committed to excellence in software development. 🌟
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" /> You can contact me at [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
+### Professional Contacts
+> [!NOTE]  
+> * Email: [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
 
 ### Skills 
 
@@ -26,6 +28,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+<hr>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
