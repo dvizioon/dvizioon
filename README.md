@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 -----------------------------------------
 
+
 👨‍💻 Dedicated backend developer with experience in C++ and C#, specializing in creating robust systems and servers. 🚀 Skilled in Node.js, TypeScript, PHP, and Twig, as well as Python, with a focus on developing scalable microservices and creating APIs using Flask and Django. Committed to excellence in software development. 🌟
 
 ### Professional Contacts
@@ -54,7 +55,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 
 <b>My GitHub Stats</b>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvizioon&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvizioon&theme=github_dark)
 
 
 <table>
@@ -63,7 +64,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
       <a href="#" >
         <div style="display:flex; gap:20px;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvizioon&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvizioon&theme=github_dark)
 
 </div>
       </a>
@@ -72,7 +73,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
       <a href="#" >
         <div style="display:flex; gap:20px;">
           
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvizioon&theme=github_dark)
         </div>
       </a>
     </td>
