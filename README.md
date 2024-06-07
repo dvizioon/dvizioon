@@ -38,7 +38,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 </p>
 
 
-### Socials 
+### Professional Networks
 
 <div style="display:flex;align-items:center; gap:5px;justify-content:left;">
 
