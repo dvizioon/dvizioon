@@ -9,7 +9,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 
 ### Professional Contacts
 > [!NOTE]  
-> * Email: [danielmartinjob@gmail.com](mailto:danielmartinjob@gmail.com) 
+> * Email: [danielmartinsjob@gmail.com](mailto:danielmartinjob@gmail.com) 
 
 ### Skills 
 
@@ -27,6 +27,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+<br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -36,6 +37,7 @@ Software Enginner , Back-End Developer <img src="https://raw.githubusercontent.c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+<img src="https://www.drupal.org/files/styles/grid-3/public/project-images/twig_1.png?itok=NFV7dbE1" width="36" height="36" alt="C++" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
 </p>
